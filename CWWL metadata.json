@@ -1,12 +1,12 @@
 {
-  "name": "MyToken",
-  "symbol": "MT",
-  "decimals": 6,
-  "issuer": "YourWalletAddress",
+  "name": "CWWL",
+  "symbol": "CWWL",
+  "decimals": 9,
+  "issuer": "3uE1CKkMP2jnhXnsjCDPEa2dLKF8eNcVALMpLzfEb5h4",
   "description": "Description of MyToken",
-  "image": "https://example.com/token_image.png",
+  "image": "https://github.com/testtokenmaker/test-SAD-tokens-2/blob/main/Untitled%20design.png?raw=true",
   "properties": {
-    "total_supply": "1000000000",
+    "total_supply": "999",
     "social_media_link": {
       "twitter": "https://twitter.com/mytoken",
       "discord": "https://discord.gg/mytoken"
