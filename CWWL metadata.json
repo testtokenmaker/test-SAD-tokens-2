@@ -1,0 +1,15 @@
+{
+  "name": "MyToken",
+  "symbol": "MT",
+  "decimals": 6,
+  "issuer": "YourWalletAddress",
+  "description": "Description of MyToken",
+  "image": "https://example.com/token_image.png",
+  "properties": {
+    "total_supply": "1000000000",
+    "social_media_link": {
+      "twitter": "https://twitter.com/mytoken",
+      "discord": "https://discord.gg/mytoken"
+    }
+  }
+}
